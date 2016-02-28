@@ -1,9 +1,7 @@
 ## contacts.vim
 
-OSX Contacts.app omni-completion for 'mail' filetype files.
-
-You might find this plugin useful if you're using `mutt` because it enables
-email address completion.
+OSX Contacts.app email address omni-completion for 'mail' filetype files.
+Useful if you're using `mutt`.
 
 Only works for OSX Contacts.app.
 
